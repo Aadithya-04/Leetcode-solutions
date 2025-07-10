@@ -8,3 +8,4 @@ class Solution:
             if arr[i+1] - arr[i] != commonDifference:
                 return False
         return True
+
